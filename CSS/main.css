@@ -1,0 +1,43 @@
+*{margin: 0;
+padding: 0;}
+ 
+.nav {background-color: orange;
+	height: 110px;
+
+}
+.nav .logo {color:#fff; float: left; 
+	        margin-left: 40px;
+}
+
+.nav ul {
+	float: right;	
+	font-weight: bold;
+	font-family: arial;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+	font-color:#fff;
+}
+.nav li{display: inline-block;
+	    margin-top: 20px;
+ }
+.nav a{color: #d8d8d8;
+	margin-right: 35px;
+	text-transform: uppercase;
+	text-decoration: none;}
+
+.search form {
+	float:right;
+	height: 100%;}
+
+.search input {height; 100%;}	
+	       
+    
+
+
+
+
+
+
+
+.footer{background-color: blue;
+height: 50px;}
